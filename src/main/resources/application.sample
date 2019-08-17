@@ -1,0 +1,4 @@
+app.applicationName=Google Sheet Writer
+app.spreadsheetid=
+app.serviceaccount=
+certificate.path=pem/dev.p12
